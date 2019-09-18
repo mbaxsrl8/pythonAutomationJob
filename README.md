@@ -3,3 +3,4 @@
 
 ## 从Web抓取信息
 
+`bs4`的`select`方法返回的是一个element的list

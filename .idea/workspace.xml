@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550081cd-2a22-4c84-baee-ae9a96cdeade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/excel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/read_census_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/censuspopdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/produceSales.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel/update_procedure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,16 +35,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/excel" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Self-driven learning\pythonAutomationJob\excel" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\python projects\start" />
     </key>
@@ -61,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.map_it">
+  <component name="RunManager" selected="Python.update_procedure">
     <configuration name="backToZip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,28 +101,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/map_it.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="phoneAndEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/phoneAndEmail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +153,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="update_procedure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel/update_procedure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_procedure" />
         <item itemvalue="Python.map_it" />
         <item itemvalue="Python.backToZip" />
         <item itemvalue="Python.testWalk" />
         <item itemvalue="Python.random_test" />
-        <item itemvalue="Python.phoneAndEmail" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +216,7 @@
       <workItem from="1568726821874" duration="1805000" />
       <workItem from="1568813904163" duration="1246000" />
       <workItem from="1569642377609" duration="119000" />
-      <workItem from="1569642667041" duration="6435000" />
+      <workItem from="1569642667041" duration="8805000" />
     </task>
     <servers />
   </component>
@@ -277,5 +280,6 @@
     <SUITE FILE_PATH="coverage/python_projects$testWalk.coverage" NAME="testWalk Coverage Results" MODIFIED="1567328383772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
     <SUITE FILE_PATH="coverage/python_projects$zeroDivide.coverage" NAME="zeroDivide Coverage Results" MODIFIED="1562115579117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start" />
     <SUITE FILE_PATH="coverage/python_projects$backToZip.coverage" NAME="backToZip Coverage Results" MODIFIED="1567328778350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
+    <SUITE FILE_PATH="coverage/pythonAutomationJob$update_procedure.coverage" NAME="update_procedure Coverage Results" MODIFIED="1569684193359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
   </component>
 </project>

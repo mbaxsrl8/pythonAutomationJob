@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550081cd-2a22-4c84-baee-ae9a96cdeade" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSV_and_JSON/quick_weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -213,7 +212,7 @@
       <workItem from="1569642377609" duration="119000" />
       <workItem from="1569642667041" duration="9164000" />
       <workItem from="1569896879935" duration="2719000" />
-      <workItem from="1569913457435" duration="8965000" />
+      <workItem from="1569913457435" duration="9768000" />
     </task>
     <servers />
   </component>
@@ -254,11 +253,6 @@
           <url>file://$PROJECT_DIR$/start/guess_the_number.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CSV_and_JSON/quick_weather.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

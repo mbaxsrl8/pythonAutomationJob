@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550081cd-2a22-4c84-baee-ae9a96cdeade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSV_and_JSON/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV_and_JSON/remove_csv_header.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +35,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/excel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSV_and_JSON" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Self-driven learning\pythonAutomationJob\CSV_and_JSON" />
       <recent name="F:\Self-driven learning\pythonAutomationJob\excel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Self-driven learning\pythonAutomationJob\CSV_and_JSON" />
       <recent name="F:\python projects\start" />
     </key>
   </component>
@@ -61,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_census_excel">
+  <component name="RunManager" selected="Python.remove_csv_header">
     <configuration name="backToZip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testWalk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remove_csv_header" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSV_and_JSON" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/testWalk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSV_and_JSON/remove_csv_header.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_csv_header" />
         <item itemvalue="Python.read_census_excel" />
         <item itemvalue="Python.update_procedure" />
         <item itemvalue="Python.map_it" />
         <item itemvalue="Python.backToZip" />
-        <item itemvalue="Python.testWalk" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +219,8 @@
       <workItem from="1568813904163" duration="1246000" />
       <workItem from="1569642377609" duration="119000" />
       <workItem from="1569642667041" duration="9164000" />
-      <workItem from="1569896879935" duration="1284000" />
+      <workItem from="1569896879935" duration="2719000" />
+      <workItem from="1569913457435" duration="3967000" />
     </task>
     <servers />
   </component>
@@ -260,6 +266,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonAutomationJob$remove_csv_header.coverage" NAME="remove_csv_header Coverage Results" MODIFIED="1569919748573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CSV_and_JSON" />
     <SUITE FILE_PATH="coverage/python_projects$guess_the_number.coverage" NAME="guess_the_number Coverage Results" MODIFIED="1562162552553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start" />
     <SUITE FILE_PATH="coverage/python_projects$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1566742670543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
     <SUITE FILE_PATH="coverage/python_projects$all_my_cats.coverage" NAME="all_my_cats Coverage Results" MODIFIED="1562400151672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
